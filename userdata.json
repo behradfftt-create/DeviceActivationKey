@@ -38,7 +38,13 @@
     {
         "device_id": "5cf18de40d2618e5",
         "key": "behrad876",
-        "expirydate": "05-03-2026",
+        "expirydate": "05-06-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "812f3f240393ac74",
+        "key": "behrad876",
+        "expirydate": "05-06-2026",
         "Allowoffline": false
     }
 ]
